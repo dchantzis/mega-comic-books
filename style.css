@@ -1,0 +1,53 @@
+@charset "iso-8859-7";
+
+body {
+	font-family: verdana;
+	font-size: 10px;
+	color: #ffffff;
+	scrollbar-face-color: #000000;
+	scrollbar-highlight-color: #EBEADF;
+	scrollbar-3dlight-color: #EBEADF;
+	scrollbar-shadow-color: #CCCCCC;
+	scrollbar-darkshadow-color: #CCCCCC;
+	scrollbar-track-color: #FFFFFF;
+	scrollbar-arrow-color: #FFFFFF;
+
+	}
+
+a,
+a:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: capitalize;
+}
+
+a:hover,
+a:active,
+a:focus {
+	text-decoration: underline;
+}
+
+.link_tag	{ font-family: Verdana; font-size: 12px; color: #000000; }
+.tag {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000;}
+.tag_red {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #000000; color:#FF0000}
+.title {font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #000000; font-weight: bold;}
+.title_red {font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #000000; font-weight: bold; color:#FF0000}
+.red {font-family: Verdana; font-size: 10px; color: #E9350E;}
+.red2 {font-family: Verdana; font-size: 14px; color: #E9350E; font-weight: bold;}
+.white {font-family: Verdana; font-size: 18px; color: #FFFFFF; font-weight: 200;}
+.image_name {font-family: Verdana; font-size: 12px; color: #FFFFFF; font-weight: 200;}
+.comments {font-family: Verdana; font-size: 12px; color: #FFFFFF;}
+.comments_tags {font-family: Verdana; font-size: 14px; color: #FFFFFF; text-decoration: underline;}
+.comments_headlines {font-family: Verdana; font-size: 16px; color: #FFFFFF; font-weight: bold;}
+.error {font-family: Verdana; font-size: 11px; color: #E9350E;}
+.goback {font-family: Verdana; font-size: 10px; color: #FFFFFF;}
+input, textarea, select { background : #f2f2f2; color: #666666; font-family: arial, Trebuchet MS, verdana, san-serif; font-size: 12px; border: 0px; }
+.headline { font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #000000; text-decoration: none; font-weight: bold;}
+.headline2 { font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #000000; text-decoration: none; font-weight: bold; color:#FF0000}
+.headline3 { font-family: Arial, Helvetica, sans-serif; font-size: 15px; color: #000000; text-decoration: none; font-weight: bold; color:#FF0000}
+
+
+
