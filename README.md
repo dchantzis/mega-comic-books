@@ -6,15 +6,15 @@
 **Website URL:** [http://mega-comic-books.nfshost.com](http://mega-comic-books.nfshost.com)
 **Git Repo:** [https://github.com/dchantzis/mega-comic-books](https://github.com/dchantzis/mega-comic-books)
 
-**System description:** [PDF](http://mega-comic-books.nfshost.com/megacomicbookssystemdescription.pdf)
+**System description:** [PDF](http://mega-comic-books.nfshost.com/files/megacomicbookssystemdescription.pdf)
 
-**Database E.R. diagram:** [PDF](http://mega-comic-books.nfshost.com/megacomicbooksdberdiagram.pdf)
+**Database E.R. diagram:** [PDF](http://mega-comic-books.nfshost.com/files/megacomicbooksdberdiagram.pdf)
 
-**Create database SQL:** [PDF](http://mega-comic-books.nfshost.com/megacomicbooksdb.pdf)
+**Create database SQL:** [PDF](http://mega-comic-books.nfshost.com/files/megacomicbooksdb.pdf)
 
-**Database SQL insert queries:** [PDF](http://mega-comic-books.nfshost.com/megacomicbookssqlqueries.pdf)
+**Database SQL insert queries:** [PDF](http://mega-comic-books.nfshost.com/files/megacomicbookssqlqueries.pdf)
 
-**Database entries print-outs:** [PDF](http://mega-comic-books.nfshost.com/megacomicbooksdbprintouts1.pdf) and [PDF](http://mega-comic-books.nfshost.com/megacomicbooksdbprintouts2.pdf)
+**Database entries print-outs:** [PDF](http://mega-comic-books.nfshost.com/files/megacomicbooksdbprintouts1.pdf) and [PDF](http://mega-comic-books.nfshost.com/megacomicbooksdbprintouts2.pdf)
 
 
 **This website currently functions for demonstration purposes only.**
